@@ -18,7 +18,6 @@ penetrs = np.array([4])
 root_folder = '/opt3/' + animal + '/'
 resu_folder = '/home/lauri/projects/ContrastResponse_FBinactivation/results/'
 
-
 laser_amps = []
 # iterate penetrations
 for p in penetrs:
